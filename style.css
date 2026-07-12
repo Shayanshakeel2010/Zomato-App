@@ -1,0 +1,234 @@
+body{
+    overflow-y: scroll;
+    overflow-x: none;
+
+}
+
+.zomato {
+    position: absolute;
+    top: 35%;
+    left: 40%;
+    font-size: 60px;
+ color: white;
+}
+
+.india {
+    position: absolute;
+    top: 43%;
+    left: 38%;
+    font-size: 60px;
+    color: white;
+}
+
+.food {
+    position: absolute;
+    top: 51%;
+    left: 32%;
+    font-size: 60px;
+    color: white;
+}
+
+.experience {
+    position: absolute;
+    top: 63%;
+    left: 32%;
+    font-size: 25px;
+    font-weight: 600;
+    color: white;
+}
+
+.get {
+    position: absolute;
+    top: 75%;
+    left: 33%;
+    font-size: 20px;
+    border: 3px solid black;
+    border-radius: 15px;
+  
+}
+.get:hover{
+    cursor: pointer;
+    border: 5px solid black;
+    height:80px ;
+  
+}
+
+.download {
+    position: absolute;
+    top: 75%;
+    left: 47%;
+    font-size: 20px;
+    border: 3px solid black;
+    border-radius: 15px;
+}
+.download:hover{
+    cursor: pointer;
+    border: 5px solid black;
+    height:80px ;
+}
+
+.Google {
+    width: 35px;
+}
+
+.app {
+    width: 35px;
+}
+.Screenshot{
+    position: absolute;
+    top: 100%;
+    position: absolute;
+    left: 0%;
+}
+.Screenshot-1{
+    position: absolute;
+    top: 200%;
+    left: 0%;
+}
+
+.Screenshot-2{
+    position: absolute;
+    top: 270%;
+    left: 0%;
+}
+.Screenshot-3{ 
+    position: absolute;
+    top: 360%;
+    left: 0%;
+}
+.box-1{
+     box-shadow:rgba(14, 30, 37, 0.12) 0px 2px 4px 0px, rgba(14, 30, 37, 0.32) 0px 2px 16px 0px ;  
+    height: 350px;
+    width: 270px;
+    position: absolute;
+    top:410%;
+    left: 20%;
+    border-radius: 30px;
+    background-color:#FFEAEA;
+
+}
+.box-2{
+    box-shadow:rgba(14, 30, 37, 0.12) 0px 2px 4px 0px, rgba(14, 30, 37, 0.32) 0px 2px 16px 0px ; 
+    height: 350px;
+    width: 270px;
+    position: absolute;
+    top:410%;
+    left: 50%;
+    border-radius: 30px;
+    background-color: #FFF4D3;
+
+}
+ .box-3{
+    box-shadow:rgba(14, 30, 37, 0.12) 0px 2px 4px 0px, rgba(14, 30, 37, 0.32) 0px 2px 16px 0px ;  
+    height: 350px;
+    width: 270px;
+    position: absolute;
+    top:460%;
+    left: 20%;
+    border-radius: 30px;
+    background-color: #EEE6FF;
+
+}
+
+
+ .box-4{
+    box-shadow:rgba(14, 30, 37, 0.12) 0px 2px 4px 0px, rgba(14, 30, 37, 0.32) 0px 2px 16px 0px ; 
+    height: 350px;
+    width: 270px;
+    position: absolute;
+    top:460%;
+    left: 50%;
+    border-radius: 30px;
+    background-color: #FFEAEA;
+
+}
+.box-1:hover{
+    width: 285px;
+    height:365px;
+    cursor: pointer;
+}
+.box-2:hover{
+    width: 285px;
+    height:365px;
+    cursor: pointer;
+}
+ 
+.box-3:hover{
+    width: 285px;
+    height:365px;
+    cursor: pointer;
+}
+ 
+.box-4:hover{
+    width: 285px;
+    height:365px;
+    cursor: pointer;
+}
+.p-1{
+  text-decoration: none;
+  font-size: 30px;
+  position: absolute;
+  top: 32%;
+  left: 37%;
+ color: black;
+ font-weight: 700;
+}
+.p-2{
+  text-decoration: none;
+  font-size: x-large;
+  position: absolute;
+  top: 45%;
+  left: 7%;
+  color:grey;
+
+}
+.p-3{
+  text-decoration: none;
+  font-size: x-large;
+  position: absolute;
+  top: 55%;
+  left: 7%;
+ color:grey;
+}
+.p-4{
+  text-decoration: none;
+  font-size: x-large;
+  position: absolute;
+  top: 65%;
+  left: 36%;
+ color:grey;
+}
+.p-5{
+     text-decoration: none;
+  font-size: x-large;
+  position: absolute;
+  top: 75%;
+  left: 24%;
+ color: black;
+}
+
+ .img-1{
+    position: absolute;
+     left: 26%;
+    top: 5%;
+    border-radius: 20px;
+ }
+ .p-6 ,.p-7{
+      text-decoration: none;
+  font-size: x-large;
+  position: absolute;
+  top: 65%;
+  left: 7%;
+  color:grey;
+
+ }
+ .p-8{
+  text-decoration: none;
+  font-size: 30px;
+  position: absolute;
+  top: 32%;
+  left: 25%;
+ color: black;
+ font-weight: 700;
+}
+ 
